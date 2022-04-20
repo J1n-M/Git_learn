@@ -26,7 +26,7 @@ void kao(int don,float b){
   ellipse(b,0,38,38);
 
   stroke(0);
-  strokeWeight(1,4);
+  strokeWeight(1.4);
   arc(b+4.26,5,8.5,7.3,0.3,PI,OPEN);
   arc(b-4.26,5,8.5,7.3,0,PI-0.3,OPEN);
   
